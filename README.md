@@ -3,9 +3,7 @@
 <h1 align="center">👋 Привет, я Данил!</h1>
 <h3 align="center">Студент 2 курса • Python • C# • SQL</h3>
 
-<tool_call>
-{"name": "search_image", "arguments": {"prompt": "Student coding SVG"}}
-</tool_call>
+
 
 ---
 
