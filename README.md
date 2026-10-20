@@ -1,5 +1,5 @@
 
-### 🌐 Связь со мной
+### 🌐 Связь
 
 <p align="left">
   <a href="https://vk.com/nonemer.gang" target="_blank">
